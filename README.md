@@ -5,7 +5,7 @@ Deep Learning portfolio
 This repo contains my deep learning projects. This portfolio has several programming assignments of the Deep Learning Specialization on Coursera.
 
 Neural Network:\
-Week 2 - [Logistic Regression with a Neural Network mindset\
+Week 2 - Logistic Regression with a Neural Network mindset\
 Week 2 - Python Basics with Numpy\
 Week 3 - Planar data classification with one hidden layer\
 Week 4 - Building your Deep Neural Network: Step by Step\
